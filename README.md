@@ -1,4 +1,4 @@
-# <i><b><p align="center" font="30px">MYSQL:  Upgrad Graded Questions.. Module: Advanced SQL and Best Practices</p></b></i>
+# <i><b><p align="center" font="30px">Module: Advanced SQL and Best Practices</p></b></i>
 
 
 <img src="https://cdn.upgrad.com/UpGrad/temp/621d6a00-d119-4c93-b945-b7c9052a2a7b/sakila.png" >
